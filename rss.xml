@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Emily Winsauer]]></title>
-        <description><![CDATA[Emily Winsauer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Emily Winsauer | Writer]]></title>
+        <description><![CDATA[Emily Winsauer | Writer]]></description>
+        <link>https://thegrid.ai/emily-winsauer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 23:10:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 23:24:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emily-winsauer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[DENIAL: IT ONLY LEADS TO BAD POETRY]]></title>
-            <description><![CDATA[<article><h1>DENIAL: IT ONLY LEADS TO BAD POETRY</h1><h2>CRUEL SHAKESPEARE</h2><p>I had received a bone marrow transplant a few months before. Weak, bald, and lacking an immune system, I couldn't leave the rental apartment where my mother and I were staying except to go to the hospital. Even then, I had to wear a face mask and avoid touching surfaces.</p></article>]]></description>
-            <link>undefineddenial-it-only-leads-to-bad-poetry/index.html</link>
+            <title><![CDATA[CRUEL SHAKESPEARE]]></title>
+            <description><![CDATA[<article><h1>CRUEL SHAKESPEARE</h1><p>I had received a bone marrow transplant a few months before. Weak, bald, and lacking an immune system, I couldn't leave the rental apartment where my mother and I were staying except to go to the hospital. Even then, I had to wear a face mask and avoid touching surfaces.</p></article>]]></description>
+            <link>https://thegrid.ai/emily-winsauer/denial-it-only-leads-to-bad-poetry/index.html</link>
             <guid isPermaLink="false">aa56ba52-3dad-403c-adb7-0a380fd44187</guid>
-            <pubDate>Wed, 13 Apr 2016 23:10:24 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 23:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
