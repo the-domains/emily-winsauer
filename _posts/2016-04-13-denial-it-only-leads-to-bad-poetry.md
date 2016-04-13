@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I had received a bone marrow transplant a few months before.\_Weak, bald, and lacking an immune system,\_I couldn't leave the rental apartment where my mother and I were staying except to go to the hospital.\_Even then, I had to wear a face mask and avoid touching surfaces."
-datePublished: '2016-04-13T23:10:24.000Z'
-dateModified: '2016-04-13T23:10:01.313Z'
-title: 'DENIAL: IT ONLY LEADS TO BAD POETRY'
+datePublished: '2016-04-13T23:24:02.148Z'
+dateModified: '2016-04-13T23:23:51.140Z'
+title: 'Denial: It Only Leads to Bad Poetry'
 author: []
+sourcePath: _posts/2016-04-13-denial-it-only-leads-to-bad-poetry.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-13-denial-it-only-leads-to-bad-poetry.md
-published: true
 url: denial-it-only-leads-to-bad-poetry/index.html
 _type: Article
 
 ---
-# [DENIAL: IT ONLY LEADS TO BAD POETRY][0]
+# Denial: It Only Leads to Bad Poetry
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df1b0621-c7e3-4911-a9ff-83e7e72312c2.jpg)
 
 In January of 2006, I was under house arrest.
@@ -105,5 +105,3 @@ make me be whole, make me one.
 Auden it ain't, but I feel much better about it than I do the first poem. It's not my best work, but that's not really the point, is it? With creative work, you can't _begin_ focused on the result. You begin by opening yourself up as brazenly as you can, and the art follows.
 
 And then comes the editing.
-
-[0]: http://emilywinsauer.com/blog/denial-bad-poetry
