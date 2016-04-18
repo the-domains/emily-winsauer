@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "I had received a bone marrow transplant a few months before.\_Weak, bald, and lacking an immune system,\_I couldn't leave the rental apartment where my mother and I were staying except to go to the hospital.\_Even then, I had to wear a face mask and avoid touching surfaces."
-datePublished: '2016-04-13T23:24:02.148Z'
-dateModified: '2016-04-13T23:23:51.140Z'
+description: "I had received a bone marrow transplant a few months before. Weak, bald, and lacking an immune system, I couldn't leave the rental apartment where my mother and I were staying except to go to the hospital. Even then, I had to wear a face mask and avoid touching surfaces."
+datePublished: '2016-04-18T17:02:12.170Z'
+dateModified: '2016-04-18T17:02:06.750Z'
 title: 'Denial: It Only Leads to Bad Poetry'
 author: []
 sourcePath: _posts/2016-04-13-denial-it-only-leads-to-bad-poetry.md
